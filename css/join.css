@@ -1,0 +1,318 @@
+/*--------------0.0 - body -----------*/
+
+/*-----------------------------------------*/
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: rgb(255, 191, 110);
+    background: linear-gradient(90deg, rgba(255, 191, 110, 1) 0%, rgba(239, 98, 159, 1) 100%);
+    color: white;
+    font-family: 'Krub', sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 50px;
+    font-weight: 100;
+    letter-spacing: 5px;
+}
+
+h2 {
+    font-family: 'Special Elite', cursive;
+    letter-spacing: 9px;
+    font-weight: 100;
+}
+
+.container {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(4, auto);
+    grid-template-areas: "h h h h h" "n n n n n" "m m m m m" "f f f f f";
+}
+
+/*--------------1.0 - header + logo --------*/
+
+/*-----------------------------------------*/
+
+header {
+    grid-area: h;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+    cursor: pointer;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.header h2 {
+    letter-spacing: 13px;
+    font-weight: 100;
+    margin-top: 10px;
+}
+
+.header .logo h1 {
+    color: rgb(54, 39, 52);
+}
+
+.header .logo {
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px rgb(54, 39, 52) solid;
+}
+
+.logo ul {
+    margin-top: 15px;
+}
+
+.logo ul li {
+    list-style: none;
+    text-align: left;
+    line-height: 18px;
+    font-weight: 100;
+}
+
+/*-------------1.2------------------------------
+-----------Nav + menu-------------------------*/
+
+nav {
+    grid-area: n;
+}
+
+.navbar {
+    margin-top: 50px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar ul li {
+    border-top: 1px solid white;
+}
+
+.navbar ul li:hover {
+    background-color: rgba(255, 255, 255, 0.418);
+    transition: .4s;
+}
+
+.navbar ul li:hover .btn i {
+    color: rgb(54, 39, 52);
+    transition: .5s;
+}
+
+.navbar .btn i {
+    font-size: 20px;
+}
+
+.navbar .btn {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar .btn p {
+    font-family: 'Krub', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.navbar ul li:nth-child(4) {
+    background-color: rgba(255, 255, 255, 0.521);
+}
+
+.navbar ul li:nth-child(4) a {
+    color: rgb(54, 39, 52);
+}
+
+/*------------ 1.3-------------------------
+---------------Main ---------------------*/
+
+main {
+    grid-area: m;
+    max-width: 1000px;
+    margin: auto;
+}
+
+main header h2 {
+    text-align: center;
+    margin: 40px 10px;
+}
+
+main form {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.wrap-gender {
+    margin-top: 10px;
+}
+
+form input {
+    font-family: 'Krub', sans-serif;
+    font-weight: 300;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.568);
+    background-color: rgba(255, 255, 255, 0.568);
+}
+
+form input::placeholder {
+    font-weight: 100;
+    color: rgb(54, 39, 52);
+    font-family: 'Krub', sans-serif;
+}
+
+form label {
+    padding: 5px;
+}
+
+form textarea {
+    background-color: rgba(255, 255, 255, 0.568);
+    padding: 20px;
+    font-family: 'Krub', sans-serif;
+    font-weight: 300;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.568);
+    background-color: rgba(255, 255, 255, 0.568);
+}
+
+form textarea::placeholder {
+    font-weight: 100;
+    color: rgb(54, 39, 52);
+    font-family: 'Krub', sans-serif;
+    padding: 5px;
+}
+
+main section p {
+    margin: 10px;
+    padding: 10px;
+    line-height: 30px;
+    font-weight: 300;
+}
+
+/*----------- 1.5--------------------------
+----------- footer  --------------------*/
+
+footer {
+    grid-area: f;
+    margin-top: 50px;
+}
+
+#footer {
+    background-color: rgba(54, 39, 52, 0.432);
+    text-align: center;
+    padding: 15px;
+}
+
+#footer:hover .sp2 {
+    transition: .5s;
+    color: rgb(254, 186, 112)
+}
+
+#footer p {
+    font-size: 9px;
+}
+
+#footer h4 {
+    color: rgb(54, 39, 52);
+    margin-top: 10px;
+}
+
+#footer ul li {
+    list-style: none;
+}
+
+#footer ul li .sp1 {
+    font-family: 'Luckiest Guy', cursive;
+    color: rgb(54, 39, 52);
+    font-size: 30px;
+}
+
+#footer ul li .sp2 {
+    font-family: 'Special Elite', cursive;
+    font-size: 35px;
+}
+
+#footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+#footer ul li a:hover {
+    transition: .3s;
+    color: rgb(254, 186, 112)
+}
+
+#footer .social-wrapper ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 50px;
+}
+
+@media(min-width:1000px) {
+    .container {
+        margin-top: 50px;
+        display: grid;
+        grid-template-columns: 1fr repeat(3, 300px) 1fr;
+        grid-template-rows: 150px auto 200px;
+        grid-template-areas: ". h n n ." "m m m m m" "f f f f f";
+    }
+    /*-------------------navbar-------------*/
+    .navbar ul {
+        margin-left: 60px;
+        display: flex;
+        justify-content: start;
+    }
+    .navbar ul li {
+        margin-right: 15px;
+        list-style: none;
+        border-top: 0px solid rgba(255, 255, 255, 0.267);
+        border: 1px solid rgba(255, 255, 255, 0.368);
+        border-radius: 20px;
+    }
+    .navbar ul li:hover {
+        background-color: rgba(255, 255, 255, 0.418);
+        transition: .4s;
+    }
+    .navbar ul li:hover .btn i {
+        color: rgb(54, 39, 52);
+        transition: .5s;
+    }
+    .navbar .btn i {
+        font-size: 20px;
+    }
+    .navbar .btn p {
+        font-size: 15px;
+    }
+    /*-----footer-----*/
+    .social-wrapper {
+        max-width: 900px;
+        margin: auto;
+    }
+}

@@ -1,0 +1,345 @@
+/*--------------0.0 - body -----------*/
+
+/*-----------------------------------------*/
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: rgb(255, 191, 110);
+    background: linear-gradient(90deg, rgba(255, 191, 110, 1) 0%, rgba(239, 98, 159, 1) 100%);
+    color: white;
+    font-family: 'Krub', sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 50px;
+    font-weight: 100;
+    letter-spacing: 5px;
+}
+
+h2 {
+    font-family: 'Special Elite', cursive;
+    letter-spacing: 9px;
+    font-weight: 100;
+}
+
+.container {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(4, auto);
+    grid-template-areas: "h h h h h" "n n n n n" "m m m m m" "f f f f f";
+}
+
+/*--------------1.0 - header + logo --------*/
+
+/*-----------------------------------------*/
+
+header {
+    grid-area: h;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.header h2 {
+    letter-spacing: 13px;
+    font-weight: 100;
+    margin-top: 10px;
+}
+
+.header .logo h1 {
+    color: rgb(54, 39, 52);
+}
+
+.header .logo {
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px rgb(54, 39, 52) solid;
+}
+
+.logo ul {
+    margin-top: 15px;
+}
+
+.logo ul li {
+    list-style: none;
+    text-align: left;
+    line-height: 18px;
+    font-weight: 100;
+}
+
+/*-------------1.2------------------------------
+-----------Nav + menu-------------------------*/
+
+nav {
+    grid-area: n;
+}
+
+.navbar {
+    margin-top: 50px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar ul li {
+    border-top: 1px solid white;
+}
+
+.navbar ul li:hover {
+    background-color: rgba(255, 255, 255, 0.418);
+    transition: .4s;
+}
+
+.navbar ul li:hover .btn i {
+    color: rgb(54, 39, 52);
+    transition: .5s;
+}
+
+.navbar .btn i {
+    font-size: 20px;
+}
+
+.navbar .btn {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar .btn p {
+    font-family: 'Krub', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.navbar ul li:nth-child(2) {
+    background-color: rgba(255, 255, 255, 0.521);
+}
+
+.navbar ul li:nth-child(2) a {
+    color: rgb(54, 39, 52);
+}
+
+/*------------ 1.3-------------------------
+---------------Main ---------------------*/
+
+main {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    grid-area: m;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.post-odd {
+    box-shadow: 11px 9px 17px -3px rgba(0, 0, 0, 0.34);
+    position: relative;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.199);
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    max-width: 300px;
+    margin: 20px;
+}
+
+.post-odd img {
+    border-radius: 30px 30px 0 0;
+    position: relative;
+    width: 100%;
+}
+
+.post-odd h2 {
+    color: white;
+    font-weight: 100;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.212);
+    padding: 15px 10px 10px 10px;
+    line-height: 15px;
+}
+
+.post-odd h3 {
+    color: rgba(54, 39, 52, 0.712);
+    text-align: left;
+    padding-left: 10px;
+    text-transform: uppercase;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.post-odd p {
+    padding: 10px;
+    color: white;
+    font-weight: 100;
+}
+
+.post-odd ul {
+    margin-left: 40px;
+}
+
+.post-odd ul li {
+    padding-bottom: 10px;
+    list-style-image: url(../images/li20px.png);
+    font-family: 'Special Elite', cursive;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.post-odd .prijs {
+    margin: 10px;
+    display: inline;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline;
+    position: absolute;
+    background-color: rgba(239, 98, 159, 1);
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.post-odd .prijs p {
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+.post-odd:hover {
+    transform: scale(1.06);
+    transition: all .26s;
+}
+
+/*----------- 1.5--------------------------
+----------- footer  --------------------*/
+
+footer {
+    grid-area: f;
+    margin-top: 50px;
+}
+
+#footer {
+    background-color: rgba(54, 39, 52, 0.432);
+    text-align: center;
+    padding: 20px;
+}
+
+#footer:hover .sp2 {
+    transition: .5s;
+    color: rgb(254, 186, 112)
+}
+
+#footer p {
+    font-size: 9px;
+}
+
+#footer h4 {
+    color: rgb(54, 39, 52);
+    margin-top: 10px;
+}
+
+#footer ul li {
+    list-style: none;
+}
+
+#footer ul li .sp1 {
+    font-family: 'Luckiest Guy', cursive;
+    color: rgb(54, 39, 52);
+    font-size: 30px;
+}
+
+#footer ul li .sp2 {
+    font-family: 'Special Elite', cursive;
+    font-size: 35px;
+}
+
+#footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+#footer ul li a:hover {
+    transition: .3s;
+    color: rgb(254, 186, 112)
+}
+
+#footer .social-wrapper ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 50px;
+}
+
+@media(min-width:1000px) {
+    .container {
+        margin-top: 50px;
+        display: grid;
+        grid-template-columns: 1fr repeat(3, 300px) 1fr;
+        grid-template-rows: 150px auto 200px;
+        grid-template-areas: ". h n n ." "m m m m m" "f f f f f";
+    }
+    /*-------------------navbar-------------*/
+    .navbar ul {
+        margin-left: 60px;
+        display: flex;
+        justify-content: start;
+    }
+    .navbar ul li {
+        margin-right: 15px;
+        list-style: none;
+        border-top: 0px solid rgba(255, 255, 255, 0.267);
+        border: 1px solid rgba(255, 255, 255, 0.368);
+        border-radius: 20px;
+    }
+    .navbar ul li:hover {
+        background-color: rgba(255, 255, 255, 0.418);
+        transition: .4s;
+    }
+    .navbar ul li:hover .btn i {
+        color: rgb(54, 39, 52);
+        transition: .5s;
+    }
+    .navbar .btn i {
+        font-size: 20px;
+    }
+    .navbar .btn p {
+        font-size: 15px;
+    }
+    /*-----footer-----*/
+    .social-wrapper {
+        max-width: 900px;
+        margin: auto;
+    }
+}
