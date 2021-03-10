@@ -4,7 +4,7 @@
 
 
 
-<h4>Minimum vereisten:<br></h4>
+#### Minimum vereisten:
 
   - Zorg dat jouw website de volgende eigenschappen heeft, meer mag natuurlijk altijd!
   - Gebruik een duidelijk onderwerp voor jouw website: "mijn website gaat over... " 
