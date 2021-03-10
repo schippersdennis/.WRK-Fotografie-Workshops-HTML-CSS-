@@ -3,7 +3,8 @@
 ##https://wrk-workshops-3ff708.netlify.app/
 ###Opdracht : Hackathon: maak eigen website met HTML/CSS
 
-![wrkphotoworkshop](https://user-images.githubusercontent.com/72910410/110692456-a07deb00-81e6-11eb-9016-23f355080807.jpg)
+![wrkworkshop](https://user-images.githubusercontent.com/72910410/110693004-42053c80-81e7-11eb-82d7-ce53b4675d12.jpg)
+
 
 
 <h4>Minimum vereisten:<br></h4>
