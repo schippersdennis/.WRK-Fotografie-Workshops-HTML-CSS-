@@ -2,8 +2,8 @@
 
 ![wrkworkshop](https://user-images.githubusercontent.com/72910410/110693004-42053c80-81e7-11eb-82d7-ce53b4675d12.jpg)
 
- - **Opdracht: Hackathon maak eigen website met HTML/CSS**
- - **Take a look at this project : https://wrk-workshops-3ff708.netlify.app/**
+  **Opdracht: Hackathon maak eigen website met HTML/CSS**
+  **Take a look at this project : https://wrk-workshops-3ff708.netlify.app/**
  
 
 
@@ -11,9 +11,9 @@
 
 ## Minimum vereisten:
 
-  [x] Zorg dat jouw website de volgende eigenschappen heeft, meer mag natuurlijk altijd!
-  [x] Gebruik een duidelijk onderwerp voor jouw website: "mijn website gaat over... " 
-  [x] Gebruik meerdere pagina's in jouw website.
+  - Zorg dat jouw website de volgende eigenschappen heeft, meer mag natuurlijk altijd!
+  - Gebruik een duidelijk onderwerp voor jouw website: "mijn website gaat over... " 
+  - Gebruik meerdere pagina's in jouw website.
   - Gebruik minsten 5 verschillende HTML elementen.
   - Gebruik semantische HTML elementen op de juiste plaatsen met de juiste betekenis.
   - Gebruik CSS in een losse stylesheet (gebruik geen inline CSS = CSS in de HTML & gebruik geen CSS frameworks).
