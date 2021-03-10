@@ -6,6 +6,7 @@
 
 #### **Take a look at this project : https://wrk-workshops-3ff708.netlify.app/**
 
+
 ## Minimum requirements:
 
 - Make sure your website has the following features, more is always allowed!
@@ -23,8 +24,9 @@
 - Use at least 1 form on your website.
 - Your website is mobile-first. The basic CSS is for a mobile phone, the extra CSS for the desktop is in a media query.
 
-## Bonus for extra points:
 
+
+## Bonus for extra points:
 - Use an embedded YouTube video.
 - Use lots of beautiful images, for example from stock photo websites.
 - Use beautifully coordinated colors.
