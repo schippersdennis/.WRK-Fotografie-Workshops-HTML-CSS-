@@ -4,6 +4,7 @@
 
 <h3>Opdracht : Hackathon: maak eigen website met HTML/CSS </h3>
 <hr>
+![wrk_photo_workshop](https://user-images.githubusercontent.com/72910410/110691911-09b12e80-81e6-11eb-9993-2d617f928e81.jpg)
 
 
 <h4>Minimum vereisten:<br></h4>
