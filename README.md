@@ -1,10 +1,15 @@
-# .WRK-Photograph-Workshops-HTML-CSS
+## WRK-Photograph-Workshops-HTML-CSS
 
 ![wrkworkshop](https://user-images.githubusercontent.com/72910410/110693004-42053c80-81e7-11eb-82d7-ce53b4675d12.jpg)
 
+ - **Opdracht: Hackathon maak eigen website met HTML/CSS**
+ - **Take a look at this project : https://wrk-workshops-3ff708.netlify.app/**
+ 
 
 
-#### Minimum vereisten:
+
+
+## Minimum vereisten:
 
   - Zorg dat jouw website de volgende eigenschappen heeft, meer mag natuurlijk altijd!
   - Gebruik een duidelijk onderwerp voor jouw website: "mijn website gaat over... " 
@@ -25,7 +30,7 @@
 - We kijken ook naar de netheid: zorg dus dat alle "spelfoutjes" uit je code zijn (gebruik een linter).
   - Zorg daarnaast dat je code juiste geformatteerd is. Gebruik spaties en enters op de juiste manier .
 
-<h4>Bonus voor extra punten:</h4>
+## Bonus voor extra punten:
 
   - Gebruik een embedded YouTube video.
   - Gebruik veel mooie afbeeldingen, bijvoorbeeld van stockfoto websites.
