@@ -7,8 +7,8 @@
 
 
 <h4>Minimum vereisten:<br></h4>
-
-Zorg dat jouw website de volgende eigenschappen heeft, meer mag natuurlijk altijd!<br>
+<ul>
+  <li>Zorg dat jouw website de volgende eigenschappen heeft, meer mag natuurlijk altijd!</li>
 Gebruik een duidelijk onderwerp voor jouw website: "mijn website gaat over... " <br>
 Gebruik meerdere pagina's in jouw website. <br>
 Gebruik minsten 5 verschillende HTML elementen.<br>
@@ -24,6 +24,7 @@ Gebruik minstens 1 formulier op jouw website.<br>
 Jouw website is mobile-first. De basis CSS is voor een mobiele telefoon, de extra CSS voor op desktop staat in een media-query. <br>
 We kijken ook naar de netheid: zorg dus dat alle "spelfoutjes" uit je code zijn (gebruik een linter).<br>
 Zorg daarnaast dat je code juiste geformatteerd is. Gebruik spaties en enters op de juiste manier .<br>
+  </ul>
 <hr>
 
 <h4>Bonus voor extra punten:</h4>
