@@ -4,7 +4,7 @@
 
 #### **Assignment:** Hackathon make your own website with HTML / CSS
 
-#### **Result:**Take a look at this project : https://wrk-workshops-3ff708.netlify.app/
+#### **Result:** Take a look at this project : https://wrk-workshops-3ff708.netlify.app/
 
 
 ## Minimum requirements:
