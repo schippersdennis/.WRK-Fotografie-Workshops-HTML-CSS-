@@ -7,7 +7,7 @@
 #### **Take a look at this project : https://wrk-workshops-3ff708.netlify.app/**
 
 
-## Minimum requirements:
+## > Minimum requirements:
 
 - Make sure your website has the following features, more is always allowed!
 - Use a clear topic for your website: "my website is about ..."
