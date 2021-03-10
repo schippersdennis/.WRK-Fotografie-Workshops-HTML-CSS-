@@ -2,9 +2,9 @@
 
 ![wrkworkshop](https://user-images.githubusercontent.com/72910410/110693004-42053c80-81e7-11eb-82d7-ce53b4675d12.jpg)
 
-#### **Assignment: Hackathon make your own website with HTML / CSS**
+#### **Assignment:** Hackathon make your own website with HTML / CSS
 
-#### **Take a look at this project : https://wrk-workshops-3ff708.netlify.app/**
+#### **Result:**Take a look at this project : https://wrk-workshops-3ff708.netlify.app/
 
 
 ## Minimum requirements:
