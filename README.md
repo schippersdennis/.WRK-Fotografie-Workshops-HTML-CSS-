@@ -1,12 +1,12 @@
 <h1># .WRK-Photograph-Workshops-HTML-CSS</h1>
 
-<h2>Result: https://wrk-workshops-3ff708.netlify.app/</h2>
-<hr>
-Opdracht : Hackathon: maak eigen website met HTML/CSS
+<h2>https://wrk-workshops-3ff708.netlify.app/</h2>
+
+<h3>Opdracht : Hackathon: maak eigen website met HTML/CSS </h3>
 <hr>
 
 
-<b>Minimum vereisten:<br></b>
+<h4>Minimum vereisten:<br></h4>
 
 Zorg dat jouw website de volgende eigenschappen heeft, meer mag natuurlijk altijd!<br>
 Gebruik een duidelijk onderwerp voor jouw website: "mijn website gaat over... " <br>
@@ -26,7 +26,7 @@ We kijken ook naar de netheid: zorg dus dat alle "spelfoutjes" uit je code zijn 
 Zorg daarnaast dat je code juiste geformatteerd is. Gebruik spaties en enters op de juiste manier .<br>
 <hr>
 
-Bonus voor extra punten:<br>
+<h4>Bonus voor extra punten:</h4>
 
 Als je ons echt onder de indruk wilt laten zijn van jouw vaardigheden:<br>
 Gebruik een embedded YouTube video.<br>
