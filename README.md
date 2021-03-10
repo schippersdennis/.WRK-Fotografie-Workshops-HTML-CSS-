@@ -11,9 +11,9 @@
 
 ## Minimum vereisten:
 
-  - Zorg dat jouw website de volgende eigenschappen heeft, meer mag natuurlijk altijd!
-  - Gebruik een duidelijk onderwerp voor jouw website: "mijn website gaat over... " 
-  - Gebruik meerdere pagina's in jouw website.
+  [x] Zorg dat jouw website de volgende eigenschappen heeft, meer mag natuurlijk altijd!
+  [x] Gebruik een duidelijk onderwerp voor jouw website: "mijn website gaat over... " 
+  [x] Gebruik meerdere pagina's in jouw website.
   - Gebruik minsten 5 verschillende HTML elementen.
   - Gebruik semantische HTML elementen op de juiste plaatsen met de juiste betekenis.
   - Gebruik CSS in een losse stylesheet (gebruik geen inline CSS = CSS in de HTML & gebruik geen CSS frameworks).
