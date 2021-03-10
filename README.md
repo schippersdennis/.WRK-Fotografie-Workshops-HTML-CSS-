@@ -9,7 +9,7 @@
 
 
 
-## Minimum vereisten:
+## Minimum requirements:
 
   - Make sure your website has the following features, more is always allowed!
   - Use a clear topic for your website: "my website is about ..."
@@ -27,7 +27,7 @@
  - Your website is mobile-first. The basic CSS is for a mobile phone, the extra CSS for the desktop is in a media query.
   
 
-## Bonus voor extra punten:
+## Bonus for extra points:
 
   - Use an embedded YouTube video.
   - Gebruik veel mooie afbeeldingen, bijvoorbeeld van stockfoto websites.
