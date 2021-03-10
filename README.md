@@ -2,8 +2,8 @@
 
 ![wrkworkshop](https://user-images.githubusercontent.com/72910410/110693004-42053c80-81e7-11eb-82d7-ce53b4675d12.jpg)
 
-  ### **Opdracht: Hackathon maak eigen website met HTML/CSS**
-  ### **Take a look at this project : https://wrk-workshops-3ff708.netlify.app/**
+  #### **Opdracht: Hackathon maak eigen website met HTML/CSS**
+  #### **Take a look at this project : https://wrk-workshops-3ff708.netlify.app/**
  
 
 
