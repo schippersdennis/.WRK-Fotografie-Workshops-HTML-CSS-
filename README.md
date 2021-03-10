@@ -6,8 +6,8 @@ Opdracht : Hackathon: maak eigen website met HTML/CSS
 <hr>
 
 
-Minimum vereisten
-<hr>
+Minimum vereisten:<br>
+
 Zorg dat jouw website de volgende eigenschappen heeft, meer mag natuurlijk altijd!<br>
 Gebruik een duidelijk onderwerp voor jouw website: "mijn website gaat over... " <br>
 Gebruik meerdere pagina's in jouw website. <br>
