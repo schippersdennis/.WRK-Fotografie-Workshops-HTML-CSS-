@@ -26,8 +26,8 @@ We kijken ook naar de netheid: zorg dus dat alle "spelfoutjes" uit je code zijn 
 Zorg daarnaast dat je code juiste geformatteerd is. Gebruik spaties en enters op de juiste manier .<br>
 <hr>
 
-Bonus voor extra punten
-<hr>
+Bonus voor extra punten:<br>
+
 Als je ons echt onder de indruk wilt laten zijn van jouw vaardigheden:<br>
 Gebruik een embedded YouTube video.<br>
 Gebruik veel mooie afbeeldingen, bijvoorbeeld van stockfoto websites. <br>
