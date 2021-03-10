@@ -31,5 +31,6 @@
 >- Use an embedded YouTube video.
 >- Use lots of beautiful images, for example from stock photo websites.
 >- Use beautifully coordinated colors.
+>- Also use a design and use media queries for other screen sizes, think of: tablet.
 >- Use external libraries such as Google Fonts to add extra CSS to your website.
 >- Use an extensive form with many different types of input fields.
