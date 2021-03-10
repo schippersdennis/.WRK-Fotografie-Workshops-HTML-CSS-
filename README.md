@@ -1,6 +1,6 @@
 # .WRK-Photograph-Workshops-HTML-CSS
 <hr>
-Result: https://wrk-workshops-3ff708.netlify.app/
+<b>Result: https://wrk-workshops-3ff708.netlify.app/</b>
 <hr>
 Opdracht : Hackathon: maak eigen website met HTML/CSS
 <hr>
