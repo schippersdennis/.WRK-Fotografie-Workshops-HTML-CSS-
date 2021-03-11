@@ -1,6 +1,7 @@
 ## .WRK - Photography Workshops
 
-![wrkworkshop](https://user-images.githubusercontent.com/72910410/110693004-42053c80-81e7-11eb-82d7-ce53b4675d12.jpg)
+![wrkworkshop](https://user-images.githubusercontent.com/72910410/110764343-3bacaa00-8253-11eb-942b-1d32b715c6d6.jpg)
+
 
 #### **Assignment:** Hackathon make your own website with HTML / CSS
 
